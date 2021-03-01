@@ -51,10 +51,9 @@ h6 {
 
 /*--------------------------------------------*/
 .container {
-    max-width: 1140px;
+    max-width: 1170px;
     margin: 0 auto;
 }
-
 body {
     background-color: white;
 }
